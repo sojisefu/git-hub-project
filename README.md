@@ -2,3 +2,5 @@
 website for uni
 
 project for university
+
+Albina Moskalenko
